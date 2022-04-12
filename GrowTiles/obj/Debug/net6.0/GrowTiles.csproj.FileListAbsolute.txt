@@ -1,0 +1,15 @@
+/home/trevor/Documents/Programming/GrowTiles/bin/Debug/net6.0/GrowTiles
+/home/trevor/Documents/Programming/GrowTiles/bin/Debug/net6.0/GrowTiles.deps.json
+/home/trevor/Documents/Programming/GrowTiles/bin/Debug/net6.0/GrowTiles.runtimeconfig.json
+/home/trevor/Documents/Programming/GrowTiles/bin/Debug/net6.0/GrowTiles.dll
+/home/trevor/Documents/Programming/GrowTiles/bin/Debug/net6.0/GrowTiles.pdb
+/home/trevor/Documents/Programming/GrowTiles/obj/Debug/net6.0/GrowTiles.csproj.AssemblyReference.cache
+/home/trevor/Documents/Programming/GrowTiles/obj/Debug/net6.0/GrowTiles.GeneratedMSBuildEditorConfig.editorconfig
+/home/trevor/Documents/Programming/GrowTiles/obj/Debug/net6.0/GrowTiles.AssemblyInfoInputs.cache
+/home/trevor/Documents/Programming/GrowTiles/obj/Debug/net6.0/GrowTiles.AssemblyInfo.cs
+/home/trevor/Documents/Programming/GrowTiles/obj/Debug/net6.0/GrowTiles.csproj.CoreCompileInputs.cache
+/home/trevor/Documents/Programming/GrowTiles/obj/Debug/net6.0/GrowTiles.dll
+/home/trevor/Documents/Programming/GrowTiles/obj/Debug/net6.0/refint/GrowTiles.dll
+/home/trevor/Documents/Programming/GrowTiles/obj/Debug/net6.0/GrowTiles.pdb
+/home/trevor/Documents/Programming/GrowTiles/obj/Debug/net6.0/GrowTiles.genruntimeconfig.cache
+/home/trevor/Documents/Programming/GrowTiles/obj/Debug/net6.0/ref/GrowTiles.dll
